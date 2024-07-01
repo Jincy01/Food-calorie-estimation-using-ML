@@ -1,9 +1,12 @@
 This repository contains the code and resources for developing a machine learning model that estimates the calorie content of various foods from images. Our goal is to create a tool that helps individuals track their caloric intake more accurately and conveniently.
+![Screenshot (23)](https://github.com/Jincy01/Food-calorie-estimation-using-ML/assets/92220453/8d52a3ce-097c-4370-8199-577107464c1e)
 
-Contents📖
-> Introduction
-> Key features
-> Technologies used
+
+**Contents📖**
+
+**Introduction**
+**Key features**
+**Technologies used**
 
 INTRODUCTION
 
@@ -18,8 +21,8 @@ KEY FEATURES
 
 TECHNOLOGIES USED
 
-Machine Learning: Implemented using TensorFlow and Keras for building and training neural networks.
-Frontend Tools: HTML for structure, CSS for styling and JavaScript for interactivity.
-Backend Tools: Python for server-side logic, SQLite for database management.
+**Machine Learning**: Implemented using TensorFlow and Keras for building and training neural networks.
+**Frontend Tools**: HTML for structure, CSS for styling and JavaScript for interactivity.
+**Backend Tools**: Python for server-side logic, SQLite for database management.
 
 
