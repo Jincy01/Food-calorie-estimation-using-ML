@@ -9,7 +9,7 @@ In today's health-conscious world, tracking calorie intake is crucial for mainta
 
 **OBJECTIVES**
 
--** **:To develop a user-friendly web interface for uploading food images and estimating the calories
+-** **:To develop a user-friendly web interface for uploading food images and estimating the calories.
 -** **:To implement machine learning models using TenserFlow for the estimation of calorie based on food images.
 -** **:	Develop a model that accurately estimates the calorie content of various food. 
  
@@ -23,8 +23,8 @@ In today's health-conscious world, tracking calorie intake is crucial for mainta
 
 **TECHNOLOGIES USED**
 
--**Machine Learning**: Implemented using TensorFlow and Keras for building and training neural networks.
--**Frontend Tools**: HTML for structure, CSS for styling and JavaScript for interactivity.
--**Backend Tools**: Python for server-side logic, SQLite for database management.
+- **Machine Learning**: Implemented using TensorFlow and Keras for building and training neural networks.
+- **Frontend Tools**: HTML for structure, CSS for styling and JavaScript for interactivity.
+- **Backend Tools**: Python for server-side logic, SQLite for database management.
 
 
