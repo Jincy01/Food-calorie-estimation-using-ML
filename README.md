@@ -9,9 +9,9 @@ In today's health-conscious world, tracking calorie intake is crucial for mainta
 
 **OBJECTIVES**
 
--** **:To develop a user-friendly web interface for uploading food images and estimating the calories.
--** **:To implement machine learning models using TenserFlow for the estimation of calorie based on food images.
--** **:	Develop a model that accurately estimates the calorie content of various food. 
+- ** **:To develop a user-friendly web interface for uploading food images and estimating the calories.
+- ** **:To implement machine learning models using TenserFlow for the estimation of calorie based on food images.
+-,** **:	Develop a model that accurately estimates the calorie content of various food. 
  
 
 **KEY FEATURES**
